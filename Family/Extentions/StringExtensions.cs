@@ -10,7 +10,7 @@ namespace FamilyStats.Extentions
     {
         public static string SayHello(this string name)
         {
-            return $"Hello {name}.";
+            return $"Hello {name}.";     // hello
         }
 
         // Create IsValidZipCode Extension Method to check if zip is 5 or 9 digits
